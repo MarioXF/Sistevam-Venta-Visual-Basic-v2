@@ -1,0 +1,11 @@
+F:\Disco D-PCMariano\ACHIVOS DE FRANKLIN\Lenguajes de programación\Sistevam-Venta-Visual-Basic-v1-main\Proyecto\CapaEntidad\bin\Debug\CapaEntidad.dll.config
+F:\Disco D-PCMariano\ACHIVOS DE FRANKLIN\Lenguajes de programación\Sistevam-Venta-Visual-Basic-v1-main\Proyecto\CapaEntidad\bin\Debug\CapaEntidad.dll
+F:\Disco D-PCMariano\ACHIVOS DE FRANKLIN\Lenguajes de programación\Sistevam-Venta-Visual-Basic-v1-main\Proyecto\CapaEntidad\bin\Debug\CapaEntidad.pdb
+F:\Disco D-PCMariano\ACHIVOS DE FRANKLIN\Lenguajes de programación\Sistevam-Venta-Visual-Basic-v1-main\Proyecto\CapaEntidad\bin\Debug\CapaEntidad.xml
+F:\Disco D-PCMariano\ACHIVOS DE FRANKLIN\Lenguajes de programación\Sistevam-Venta-Visual-Basic-v1-main\Proyecto\CapaEntidad\obj\Debug\CapaEntidad.vbproj.AssemblyReference.cache
+F:\Disco D-PCMariano\ACHIVOS DE FRANKLIN\Lenguajes de programación\Sistevam-Venta-Visual-Basic-v1-main\Proyecto\CapaEntidad\obj\Debug\CapaEntidad.Resources.resources
+F:\Disco D-PCMariano\ACHIVOS DE FRANKLIN\Lenguajes de programación\Sistevam-Venta-Visual-Basic-v1-main\Proyecto\CapaEntidad\obj\Debug\CapaEntidad.vbproj.GenerateResource.cache
+F:\Disco D-PCMariano\ACHIVOS DE FRANKLIN\Lenguajes de programación\Sistevam-Venta-Visual-Basic-v1-main\Proyecto\CapaEntidad\obj\Debug\CapaEntidad.vbproj.CoreCompileInputs.cache
+F:\Disco D-PCMariano\ACHIVOS DE FRANKLIN\Lenguajes de programación\Sistevam-Venta-Visual-Basic-v1-main\Proyecto\CapaEntidad\obj\Debug\CapaEntidad.dll
+F:\Disco D-PCMariano\ACHIVOS DE FRANKLIN\Lenguajes de programación\Sistevam-Venta-Visual-Basic-v1-main\Proyecto\CapaEntidad\obj\Debug\CapaEntidad.xml
+F:\Disco D-PCMariano\ACHIVOS DE FRANKLIN\Lenguajes de programación\Sistevam-Venta-Visual-Basic-v1-main\Proyecto\CapaEntidad\obj\Debug\CapaEntidad.pdb

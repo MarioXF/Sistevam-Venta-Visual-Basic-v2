@@ -1,0 +1,16 @@
+F:\Disco D-PCMariano\ACHIVOS DE FRANKLIN\Lenguajes de programación\Sistevam-Venta-Visual-Basic-v1-main\Proyecto\CapaDatos\bin\Debug\CapaDatos.dll.config
+F:\Disco D-PCMariano\ACHIVOS DE FRANKLIN\Lenguajes de programación\Sistevam-Venta-Visual-Basic-v1-main\Proyecto\CapaDatos\bin\Debug\CapaDatos.dll
+F:\Disco D-PCMariano\ACHIVOS DE FRANKLIN\Lenguajes de programación\Sistevam-Venta-Visual-Basic-v1-main\Proyecto\CapaDatos\bin\Debug\CapaDatos.pdb
+F:\Disco D-PCMariano\ACHIVOS DE FRANKLIN\Lenguajes de programación\Sistevam-Venta-Visual-Basic-v1-main\Proyecto\CapaDatos\bin\Debug\CapaDatos.xml
+F:\Disco D-PCMariano\ACHIVOS DE FRANKLIN\Lenguajes de programación\Sistevam-Venta-Visual-Basic-v1-main\Proyecto\CapaDatos\bin\Debug\CapaEntidad.dll
+F:\Disco D-PCMariano\ACHIVOS DE FRANKLIN\Lenguajes de programación\Sistevam-Venta-Visual-Basic-v1-main\Proyecto\CapaDatos\bin\Debug\CapaEntidad.pdb
+F:\Disco D-PCMariano\ACHIVOS DE FRANKLIN\Lenguajes de programación\Sistevam-Venta-Visual-Basic-v1-main\Proyecto\CapaDatos\bin\Debug\CapaEntidad.xml
+F:\Disco D-PCMariano\ACHIVOS DE FRANKLIN\Lenguajes de programación\Sistevam-Venta-Visual-Basic-v1-main\Proyecto\CapaDatos\bin\Debug\CapaEntidad.dll.config
+F:\Disco D-PCMariano\ACHIVOS DE FRANKLIN\Lenguajes de programación\Sistevam-Venta-Visual-Basic-v1-main\Proyecto\CapaDatos\obj\Debug\CapaDatos.vbproj.AssemblyReference.cache
+F:\Disco D-PCMariano\ACHIVOS DE FRANKLIN\Lenguajes de programación\Sistevam-Venta-Visual-Basic-v1-main\Proyecto\CapaDatos\obj\Debug\CapaDatos.Resources.resources
+F:\Disco D-PCMariano\ACHIVOS DE FRANKLIN\Lenguajes de programación\Sistevam-Venta-Visual-Basic-v1-main\Proyecto\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.cache
+F:\Disco D-PCMariano\ACHIVOS DE FRANKLIN\Lenguajes de programación\Sistevam-Venta-Visual-Basic-v1-main\Proyecto\CapaDatos\obj\Debug\CapaDatos.vbproj.CoreCompileInputs.cache
+F:\Disco D-PCMariano\ACHIVOS DE FRANKLIN\Lenguajes de programación\Sistevam-Venta-Visual-Basic-v1-main\Proyecto\CapaDatos\obj\Debug\CapaDatos.vbproj.CopyComplete
+F:\Disco D-PCMariano\ACHIVOS DE FRANKLIN\Lenguajes de programación\Sistevam-Venta-Visual-Basic-v1-main\Proyecto\CapaDatos\obj\Debug\CapaDatos.dll
+F:\Disco D-PCMariano\ACHIVOS DE FRANKLIN\Lenguajes de programación\Sistevam-Venta-Visual-Basic-v1-main\Proyecto\CapaDatos\obj\Debug\CapaDatos.xml
+F:\Disco D-PCMariano\ACHIVOS DE FRANKLIN\Lenguajes de programación\Sistevam-Venta-Visual-Basic-v1-main\Proyecto\CapaDatos\obj\Debug\CapaDatos.pdb
